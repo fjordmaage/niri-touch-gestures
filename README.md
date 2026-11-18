@@ -3,6 +3,10 @@
 Multi-finger **touchscreen** gestures for the [niri](https://github.com/YaLTeR/niri)
 compositor — the same gestures you already use on the trackpad, on the glass.
 
+> This is the minimal, pinned version. The full gesture suite (holds,
+> pinches, taps, media controls, edge faders, trackpad support) grew into
+> its own project: **niri-gesture-suite**.
+
 | Gesture (finger motion) | Action |
 |---|---|
 | 3-finger swipe left / right | scroll through columns |
